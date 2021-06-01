@@ -1,2 +1,2 @@
-# sellenium_python_app
+# selenium_python_app
 A simple automation app using pyhton
